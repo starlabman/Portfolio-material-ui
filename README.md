@@ -1,64 +1,58 @@
-## Material UI Portfolio
+![gif](programming.gif)
 
-A portfolio single page application using React and Material UI
+## **Hey, I'm Laboré!** 👋
 
-### Demo of this site available here [Material-UI-Portfolio Demo](https://materialui-portfolio.netlify.app/)
+I'm a JavaScript Developer working with React and TypeScript. I enjoy writing articles and contributing to open source.
 
-#### Installing
+- 🌱 Looking to learn Rust
+- 🔭 Working on open source projects
+- 📫 Reach me at [**akodjolabore@gmail.com**](starlabman@gmail.com) OR [**LinkedIn**](https://linkedin.com/in/kodjolaboréagbetsiassi)
 
-Clone the repository using following command or download
 
-```
-git clone https://github.com/devmahmud/material-ui-portfolio.git
-```
+## Skills 🚀
 
-#### To install dependency
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Styled%20Components-d06ebe?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Cypress-1f2937?style=for-the-badge&logo=cypress&logoColor=white)
+![](https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=jest&logoColor=white)
 
-```
-npm install
-```
 
-#### To start the server
 
-```
-npm start
-```
+## Recent Articles ✍️
 
-#### For Production Build
+- [Learn TypeScript Basics in this Beginner's Guide](https://www.freecodecamp.org/news/learn-typescript-basics/)
+- [Functional Programming in JavaScript Explained in Plain English](https://www.freecodecamp.org/news/functional-programming-in-javascript-explained-in-plain-english/)
+- [How to Understand Recursion in JavaScript](https://www.freecodecamp.org/news/understanding-recursion-in-javascript/)
+- [How to use tutorials effectively to learn how to code](https://dev.to/codingknite/how-to-use-tutorials-to-learn-code-effectively-377f)
+- [Data Types and Operators in JavaScript: Everything You Need To Know](https://dev.to/codingknite/data-types-and-operators-in-javascript-everything-you-need-to-know-ah1)
 
-```
-npm run build
-```
+## Find me around the web 🌍
 
-Server will be available at http://127.0.0.1:3000 in your browser
+- [**Website**](https://starlabman.alwaysdata.net)
+- [**Twitter**](https://twitter.com/starlabman)
+- [**LinkedIn**](https://www.linkedin.com/in/kodjolaboréagbetsiassi)
 
-# Project snapshot
+********
 
-## Home page
+  
+<details>
+  <summary>📊 Github Stats</summary>
 
-![image](https://user-images.githubusercontent.com/19981097/86140838-218ec980-bb13-11ea-87c5-504d68c8d2a4.png)
+  <summary>PERSONNAL ACCOUNT</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=starlabman&show_icons=true&theme=gotham" alt="Joel's Stats" />   
+  <summary>PRIVATE ACCOUNT</summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dollarstore-git&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
 
-## Sidebar
+</details>
 
-![image](https://user-images.githubusercontent.com/19981097/86140963-4aaf5a00-bb13-11ea-854e-012077dd6101.png)
-
-## Resume
-
-![image](https://user-images.githubusercontent.com/19981097/86141072-6fa3cd00-bb13-11ea-98d4-459d59af8a15.png)
-
-## Portfolio
-
-![image](https://user-images.githubusercontent.com/19981097/86141235-9f52d500-bb13-11ea-9d7b-44b982a6fd3f.png)
-
-## Contact
-
-![image](https://user-images.githubusercontent.com/19981097/86141330-bf829400-bb13-11ea-9070-ecd62027078f.png)
-
-## Author
-
-<blockquote>
-Mahmudul alam
-Email: expelmahmud@gmail.com
-</blockquote>
-
-========Thank You !!!=========
+  #### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{starlabman1}/count.svg) 
